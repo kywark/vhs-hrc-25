@@ -94,17 +94,32 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "start": 880,
-      "end": 1000,
+      "end": 1003,
       "file": "511a801a-7548-4d42-b903-b89ff2f37db8",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -121,7 +136,12 @@
               "text": "How does Atwood's view of Offred compare to class discussions? Your interpretation? "
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
@@ -155,14 +175,20 @@
       "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "start": 1673,
-      "end": 1920,
+      "end": 1919,
       "file": "511a801a-7548-4d42-b903-b89ff2f37db8",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -179,7 +205,12 @@
               "text": "What are Atwood's ideas about utopias, dystopias, and the effect of books? Do you agree?"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
@@ -195,7 +226,8 @@
       "children": [
         {
           "text": "Overall, consider:",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         }
       ]
     },
@@ -217,7 +249,7 @@
   "created_by": "kywark",
   "title": "Margaret Atwood, interviewed by Mel Gussow in Sept. 2000",
   "slug": "margaret-atwood-interviewed-by-mel-gussow-in",
-  "updated_at": "2026-01-13T22:51:51.400Z",
+  "updated_at": "2026-01-13T22:56:14.635Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
