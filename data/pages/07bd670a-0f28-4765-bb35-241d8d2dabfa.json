@@ -9,16 +9,46 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "37422336-a352-4611-abb2-710f6671e166",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
+      "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "The recording we’ll be working with today is from the "
+        },
+        {
+          "type": "link",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
+          "children": [
+            {
+              "text": "“‘Criminal Syndicalism’ case, McComb, Mississippi (Side 1)”"
+            }
+          ]
+        },
+        {
+          "text": "recording from the "
+        },
+        {
+          "type": "link",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1",
+          "children": [
+            {
+              "text": "John Beecher Sound Recordings Collection"
+            }
+          ]
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.hrc.utexas.edu/",
+          "children": [
+            {
+              "text": "University of Texas’s Harry Ransom Center"
+            }
+          ]
+        },
+        {
+          "text": ". This recording was recorded on October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher, a writer and activist, and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which the students have been falsely accused of damaging property by throwing a brick. "
         }
       ]
     },
@@ -29,13 +59,363 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the lesson, we’re going to be listening to two clips: one where a member of the COFO is speaking to students about the charges they faced and the importance of voting before they begin asking them about their experiences (from :11-4:15), and the other where Beecher asks the students if they had recreational privileges while in jail and some of the conditions they faced (from 14:07-15:37)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Please note: You will hear real people describing traumatic events from their lives in response to direct questioning. While the clip selected for this lesson does not include all sensitive content from the full recording, you will hear: descriptions of arrest, incarceration, and the criminal justice system; an outdated term (\"negro\") used by one speaker to describe Black people; moments where speakers describe feeling dehumanized and targeted by authorities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additionally, please note: In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. We have annotated this below for your awareness, both in the \"Content Warnings\" annotation set and the \"Full Transcription\" annotation set."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First, read the below context:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "What is happening around this time? ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "October 1, 1962: James Meredith became the first Black student to attend the University of Mississippi in 1962, desegregating the university and setting off a series of violent riots in protest."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1964: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.crmvet.org/info/mccomb1964.pdf",
+                  "children": [
+                    {
+                      "text": "List of Civil Rights Incidents in McComb, Mississippi"
+                    }
+                  ]
+                },
+                {
+                  "text": ", including bombings of Black homes and businesses."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "October 19, 1964: This audio was recorded after a series of protests led to the arrest of a group of black high school students and members of the Council of Federated Organizations (who we hear in the recording after their release)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "July 2, 1964: The Civil Rights Act of 1964 was signed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "August 6, 1965: The Voting Rights Act of 1965 went into effect."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is criminal syndicalism?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.crmvet.org/docs/ms_laws64-c.pdf",
+          "children": [
+            {
+              "text": "Passed in 1964, "
+            }
+          ]
+        },
+        {
+          "text": "“Senate Bill 2027 prohibits ‘criminal syndicalism,’ defined as doctrine or precept which advocates, teaches or aids and abets the commission of crime…violence and force…as a means of accomplishing or affecting a change in agricultural or industrial ownership or control. or in affecting any political or social change or for profit. Any person who \"advocates, instigates, suggests, teaches, etc.  ‘criminal syndicalism’ or '’’attempts to justify it’ is guilty of a felony.” "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Who is John Beecher?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "John Beecher was a descendant of the author Harriet Beecher Stowe and was a poet, civil rights activist, and journalist. He speaks in our second lesson clip."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is the COFO? ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Council of Federated Organizations (COFO) was first formed in 1961 to support jailed Freedom Riders. In 1962, it reorganized to an umbrella organization to avoid inter-organizational conflict and facilitate funds and encourage grassroots activism towards voter education and registration in Mississippi. In the 1960s, COFO field workers (the majority of whom were college-age Mississippians) organized many voter registration projects–as our Beecher recording captures. For more information, see the "
+        },
+        {
+          "type": "link",
+          "url": "https://snccdigital.org/inside-sncc/alliances-relationships/cofo/",
+          "children": [
+            {
+              "text": "Student Nonviolent Coordinating Committee’s Page on the COFO"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Then, listen to the below lesson clips and jot your response to the following questions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Clip #1"
+        }
+      ]
+    },
+    {
+      "uuid": "37422336-a352-4611-abb2-710f6671e166",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 11,
+      "end": 255,
+      "file": "e04f6637-3a39-438b-aa70-9143728f33a6",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What argument is the speaker making? What do you think?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Why do you think the audio begins this way? Does it feel rehearsed?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clip #2:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "37422336-a352-4611-abb2-710f6671e166",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 847,
+      "end": 937,
+      "file": "e04f6637-3a39-438b-aa70-9143728f33a6",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What do you think of all the students' voices in the clips? "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How are they describing their conditions in jail?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Is this more or less rehearsed than the other clip?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
     }
   ],
   "created_at": "2026-01-13T05:41:22.803Z",
   "created_by": "kywark",
   "title": "John Beecher, Criminal Syndicalism",
   "slug": "john-beecher-criminal-syndicalism",
-  "updated_at": "2026-01-13T05:56:19.939Z",
+  "updated_at": "2026-01-13T06:04:59.386Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
