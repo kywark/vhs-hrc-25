@@ -4,120 +4,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\"For over 40 years Mel Gussow was the lead cultural critic for "
+          "text": "The following is a recording of an interview conducted by Mel Gussow Sept. 25, 2000 with Margaret Atwood. Mel Gussow was the lead cultural critic for "
         },
         {
           "text": "The New York Times",
           "italic": true
         },
         {
-          "text": ". During the full length of his career, Gussow recorded interviews with stars and lesser-known figures of the American and British theatre and literary scenes. He transformed some of these interviews into eight publications documenting the careers and processes of noted writers like Samuel Beckett, Arthur Miller, and Tom Stoppard. These recordings—on reel-to-reel and audiocassettes—were recorded at various places largely in and around New York."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The bulk of the nearly 1,000 audio recordings in Gussow's archive have never been included in publications. This remarkable collection captures a broad range of 40 years of literary and theatrical achievement through the voices of the people who made it."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Ninety of these recordings were preserved through a Recordings at Risk grant from the Council on Library and Information Resources (CLIR) and are now publicly available for the first time."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The metadata for this project is dedicated to the public domain under a CC0 Creative Commons license and is available through "
+          "text": " for over 40 years (1969-2005), becoming an important figure in both American and British culture. According to the Harry Ransom Center, \"This remarkable collection captures a broad range of 40 years of literary and theatrical achievement through the voices of the people who made it.\" You can see more of his recordings "
         },
         {
-          "type": "link",
-          "url": "https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/KC7OK8",
-          "children": [
-            {
-              "text": "Dataverse"
-            }
-          ]
+          "text": "here",
+          "link": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll83"
         },
         {
           "text": "."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Additional recordings are being added to this collection as they are digitized."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Learn more about this project and the recordings on the Ransom Center's"
-        },
-        {
-          "type": "link",
-          "url": "http://sites.utexas.edu/ransomcentermagazine/2018/04/03/gussow_interviews/",
-          "children": [
-            {
-              "text": "blog"
-            }
-          ]
-        },
-        {
-          "text": "."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "For more information regarding the Mel Gussow collection please visit the"
-        },
-        {
-          "type": "link",
-          "url": "http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00606",
-          "children": [
-            {
-              "text": "finding aid"
-            }
-          ]
-        },
-        {
-          "text": ".\""
         }
       ]
     },
@@ -133,7 +34,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This interview is from Sept. 25, 2000. "
+          "text": "While you'll focus on two specific clips of the larger 47 min interview today, first, jump around the full interview below! What are you hearing? What voices and environmental noises?"
         }
       ]
     },
@@ -146,23 +47,30 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "First, jump around! Listen to bits of the full audio by clicking around the bar. "
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Then, listen to the below two specific visit clips. As you listen, jot initial reactions and responses to the listed questions."
-            }
-          ]
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Then, listen to the below two specific visit clips. As you listen, jot initial reactions and responses to the listed questions. "
         }
       ]
     },
@@ -171,7 +79,8 @@
       "children": [
         {
           "text": "Clip #1:",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         }
       ]
     },
@@ -228,7 +137,8 @@
       "children": [
         {
           "bold": true,
-          "text": "Clip #2:"
+          "text": "Clip #2:",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -307,7 +217,7 @@
   "created_by": "kywark",
   "title": "Margaret Atwood, interviewed by Mel Gussow in Sept. 2000",
   "slug": "margaret-atwood-interviewed-by-mel-gussow-in",
-  "updated_at": "2026-01-13T05:56:13.613Z",
+  "updated_at": "2026-01-13T22:51:51.400Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
