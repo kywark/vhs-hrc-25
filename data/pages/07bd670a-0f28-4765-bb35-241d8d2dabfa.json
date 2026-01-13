@@ -35,11 +35,12 @@
   "created_by": "kywark",
   "title": "John Beecher, Criminal Syndicalism",
   "slug": "john-beecher-criminal-syndicalism",
-  "updated_at": "2026-01-13T05:43:35.561Z",
+  "updated_at": "2026-01-13T05:56:19.939Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "37422336-a352-4611-abb2-710f6671e166"
-  }
+  },
+  "parent": "2558c73f-02cd-4b1d-8faa-4a38f09509d0"
 }
