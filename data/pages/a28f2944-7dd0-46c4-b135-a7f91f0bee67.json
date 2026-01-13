@@ -120,13 +120,194 @@
           "text": ".\""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This interview is from Sept. 25, 2000. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "First, jump around! Listen to bits of the full audio by clicking around the bar. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Then, listen to the below two specific visit clips. As you listen, jot initial reactions and responses to the listed questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clip #1:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Context:",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 880,
+      "end": 1000,
+      "file": "511a801a-7548-4d42-b903-b89ff2f37db8",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does Atwood's view of Offred compare to class discussions? Your interpretation? "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Do you think this is a useful depiction of a protagonist in a dystopia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Clip #2:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b4d88b5a-fbed-476e-91ef-2c9081669713",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1673,
+      "end": 1920,
+      "file": "511a801a-7548-4d42-b903-b89ff2f37db8",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What are Atwood's ideas about utopias, dystopias, and the effect of books? Do you agree?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does this affect your reading of HMT?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Overall, consider:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What is your impression of Atwood, based off of her voice? Gussow?"
+            }
+          ]
+        }
+      ]
     }
   ],
   "created_at": "2026-01-13T02:27:33.918Z",
   "created_by": "kywark",
   "title": "Margaret Atwood, interviewed by Mel Gussow in Sept. 2000",
   "slug": "margaret-atwood-interviewed-by-mel-gussow-in",
-  "updated_at": "2026-01-13T05:45:36.357Z",
+  "updated_at": "2026-01-13T05:55:59.032Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
