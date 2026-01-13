@@ -80,7 +80,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Please note: You will hear real people describing traumatic events from their lives in response to direct questioning. While the clip selected for this lesson does not include all sensitive content from the full recording, you will hear: descriptions of arrest, incarceration, and the criminal justice system; an outdated term (\"negro\") used by one speaker to describe Black people; moments where speakers describe feeling dehumanized and targeted by authorities."
+          "text": "Please note: ",
+          "bold": true
+        },
+        {
+          "text": "You will hear real people describing traumatic events from their lives in response to direct questioning. While the clip selected for this lesson does not include all sensitive content from the full recording, you will hear: descriptions of arrest, incarceration, and the criminal justice system; an outdated term (\"negro\") used by one speaker to describe Black people; moments where speakers describe feeling dehumanized and targeted by authorities."
         }
       ]
     },
@@ -96,7 +100,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Additionally, please note: In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. We have annotated this below for your awareness, both in the \"Content Warnings\" annotation set and the \"Full Transcription\" annotation set."
+          "text": "Additionally, please note: ",
+          "bold": true
+        },
+        {
+          "text": "In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. We have annotated this below for your awareness, both in the \"Content Warnings\" annotation set and the \"Full Transcription\" annotation set."
         }
       ]
     },
@@ -113,7 +121,8 @@
       "children": [
         {
           "text": "First, read the below context:",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         },
         {
           "text": "\n"
@@ -294,7 +303,8 @@
       "children": [
         {
           "text": "Then, listen to the below lesson clips and jot your response to the following questions:",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -303,7 +313,8 @@
       "children": [
         {
           "bold": true,
-          "text": "Clip #1"
+          "text": "Clip #1",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -351,7 +362,8 @@
       "children": [
         {
           "text": "Clip #2:",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-two"
         }
       ]
     },
@@ -406,6 +418,32 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Overall: ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What do you make of the first speaker compared to the others in clip two? How does this add to your understanding of the events described?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
         }
       ]
@@ -415,7 +453,7 @@
   "created_by": "kywark",
   "title": "John Beecher, Criminal Syndicalism",
   "slug": "john-beecher-criminal-syndicalism",
-  "updated_at": "2026-01-13T06:04:59.386Z",
+  "updated_at": "2026-01-13T22:58:35.873Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
