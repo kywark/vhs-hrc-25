@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "kywark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63518403?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "kywark",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-13T02:19:33.835Z",
-    "updated_at": "2026-01-13T02:19:33.835Z"
-  }
+    "updated_at": "2026-01-13T02:19:33.835Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "5825977b-0744-4994-bc86-e847e04f53e1": {
+      "content": [],
+      "created_at": "2026-01-13T02:19:33.858Z",
+      "created_by": "kywark",
+      "title": "Vandegrift IB HRC Visit",
+      "updated_at": "2026-01-13T02:19:33.858Z",
+      "updated_by": "kywark",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "5825977b-0744-4994-bc86-e847e04f53e1"
+  ]
 }
