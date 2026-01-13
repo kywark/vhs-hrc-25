@@ -307,11 +307,12 @@
   "created_by": "kywark",
   "title": "Margaret Atwood, interviewed by Mel Gussow in Sept. 2000",
   "slug": "margaret-atwood-interviewed-by-mel-gussow-in",
-  "updated_at": "2026-01-13T05:55:59.032Z",
+  "updated_at": "2026-01-13T05:56:13.613Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "b4d88b5a-fbed-476e-91ef-2c9081669713"
-  }
+  },
+  "parent": "2558c73f-02cd-4b1d-8faa-4a38f09509d0"
 }
