@@ -34,7 +34,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "While you'll focus on two specific clips of the larger 47 min interview today, first, jump around the full interview below! What are you hearing? What voices and environmental noises?"
+          "text": "While you'll focus on two specific clips from the larger 47 min interview today, take some time to jump around the full interview below before you dive in! What are you hearing? What voices? Environmental noises? What is the general rapport between Gussow and Atwood?"
         }
       ]
     },
@@ -70,7 +70,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Then, listen to the below two specific visit clips. As you listen, jot initial reactions and responses to the listed questions. "
+          "text": "When you're done exploring the overall clip, listen to the two specific clips below. As you listen, be sure to jot down your initial reactions and responses to the listed questions. "
         }
       ]
     },
@@ -88,8 +88,18 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Context:",
+          "text": "Context: ",
           "italic": true
+        },
+        {
+          "text": "Atwood and Gussow are discussing Atwood's book, "
+        },
+        {
+          "text": "The Blind Assassin",
+          "italic": true
+        },
+        {
+          "text": ". Specifically, they're talking about the father-figure in the novel. Iris is a character in her novel."
         }
       ]
     },
@@ -133,7 +143,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "How does Atwood's view of Offred compare to class discussions? Your interpretation? "
+              "text": "Atwood discusses the virtue of \"closedness\" as a virtue, making reference to Offred's complicated portrayal as a protagonist. What do you make of Atwood's view of Offred? How does it compare to how you've discussed her in class?"
             }
           ]
         }
@@ -146,7 +156,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Do you think this is a useful depiction of a protagonist in a dystopia?"
+              "text": "Atwood says, \"You have to be true to circumstances.\" What do you think she means by this? Why is she talking about the broader social/historical context of Canada at this time?"
             }
           ]
         }
@@ -166,8 +176,18 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "text": ""
+          "text": "Context: ",
+          "italic": true
+        },
+        {
+          "text": "Atwood and Gussow are still discussing Atwood's book, "
+        },
+        {
+          "text": "The Blind Assassin",
+          "italic": true
+        },
+        {
+          "text": ". Atwood shares her opinions on the writing tradition + science fiction genre."
         }
       ]
     },
@@ -202,7 +222,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "What are Atwood's ideas about utopias, dystopias, and the effect of books? Do you agree?"
+              "text": "What are Atwood's ideas about utopias, dystopias, and the role of books in creating change in the world? Do you agree?"
             }
           ]
         }
@@ -215,7 +235,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "How does this affect your reading of HMT?"
+              "text": "Gussow quotes a prior quote at Atwood during this discussion. How do you interpret this interaction?"
             }
           ]
         }
@@ -238,7 +258,15 @@
           "type": "list-item",
           "children": [
             {
-              "text": "What is your impression of Atwood, based off of her voice? Gussow?"
+              "text": "What is your impression of Atwood, based off of her voice? Gussow? What is the tenor of their discussion?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How might you connect these ideas to HMT or any of the other works we studied in class?"
             }
           ]
         }
@@ -249,7 +277,7 @@
   "created_by": "kywark",
   "title": "Margaret Atwood, interviewed by Mel Gussow in Sept. 2000",
   "slug": "margaret-atwood-interviewed-by-mel-gussow-in",
-  "updated_at": "2026-01-13T22:56:14.635Z",
+  "updated_at": "2026-01-14T04:14:15.722Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
