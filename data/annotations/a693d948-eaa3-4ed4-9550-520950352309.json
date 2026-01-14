@@ -1,5 +1,1056 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 880,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the… this is the age of moderness and openness, but openness used not to be a virtue. At all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "7f5dbffd-8255-476c-a120-073167f246ee"
+    },
+    {
+      "start_time": 888,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gusssow"
+        }
+      ],
+      "uuid": "fc852c76-3640-4b34-939b-a16b47797c42"
+    },
+    {
+      "start_time": 888,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, closedness was a virtue. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "18637ac0-1a3f-42f1-919c-62816c800345"
+    },
+    {
+      "start_time": 890,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In those days. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "ea06b7ca-d31b-474c-930a-977adf3a1609"
+    },
+    {
+      "start_time": 891,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "0fe766be-6a94-4852-a2e9-34251d68bbf5"
+    },
+    {
+      "start_time": 892,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So he speaks for his times, and… "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "cc11fa21-b4ad-4054-adad-cc8015320139"
+    },
+    {
+      "start_time": 894,
+      "end_time": 54780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. Absolutely, and also he makes the decisions. This was… this was only, um, six years after women got the vote in Canada. I mean, they were by no means used to -- especially a person of that age -- they were by no means used to....making decisions for themselves. On a grand scale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "80f6d880-8ad6-42d1-bddc-af6dc036204f"
+    },
+    {
+      "start_time": 919,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And equally, Iris and her sister are -- of their times. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "199a26f3-23b7-44df-b654-df284a5f909e"
+    },
+    {
+      "start_time": 921,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. Yes, absolutely. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "7b5efe48-8a48-44d3-94c3-0b301331f0c1"
+    },
+    {
+      "start_time": 925,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, um, you know, now we would say...People said to me about The Handmaid's Tale, well, why didn't they just -- why didn't the heroine just stand up to them? You know. And I said, well, actually, she would've been shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "f277daee-7709-479a-9e61-6bb7773fecc3"
+    },
+    {
+      "start_time": 938,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to be… true to circumstances. People who did stand up to Hitler were shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "0ce0ddd9-c516-4524-b459-c8091ebfee04"
+    },
+    {
+      "start_time": 945,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "c799f22f-c1cc-45b6-80c2-24a4880ece24"
+    },
+    {
+      "start_time": 56760,
+      "end_time": 56400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um… Dictatorships don't fool around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "0256bde1-f0f6-48c9-8eba-fd84948d9c10"
+    },
+    {
+      "start_time": 951,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And similarly, why didn't they just go and get a job? Well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "00c45949-fd23-4144-a5a4-ecf320826f63"
+    },
+    {
+      "start_time": 957,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were in no way… equipped for such a thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "524fb407-c79f-457b-b23f-fce049d1a5c4"
+    },
+    {
+      "start_time": 963,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're a lot like Lily Bart in House of Mirth in which, when she does get a job, she wasn't any good at it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "e65b5334-cc49-487a-8be1-cde2a16d45ca"
+    },
+    {
+      "start_time": 971,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I've known people like that, too. Older people whose families had money, lost it. One woman ended up working as a sales clerk in a department store."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "d8c58955-277f-4e51-a4ce-49054e0561f7"
+    },
+    {
+      "start_time": 984,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, having had the trousseau and the teas and the debutante and, you know, papers -- pictures in the paper and such."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "4239b4bc-7cb7-4bae-be90-6f09633d1685"
+    },
+    {
+      "start_time": 993,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, they weren't equipped to...get any sort of good job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "cfcb6bb2-047d-40ff-a959-e48b953545cf"
+    },
+    {
+      "start_time": 998,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they weren't even very good at the bad jobs that they would've been able to get."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "0f760855-d66d-40a2-8b69-37d0882a8bae"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about, in this book, though, the choice of having that, as a, uh, a text within a text?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "347ea24b-a925-4525-b60e-c1d1ec01f48c"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's of the time. If you were a young man, um, of the era, and you needed to make some anonymous money, and you were… and you had a talent for it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "27d1b950-bf30-494d-b86e-a4e60d67d23b"
+    },
+    {
+      "start_time": 1690,
+      "end_time": 1690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You would… that's what you would have done. Because some of these guys--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "c9ac010d-465c-48b4-a6da-a9de9989ff5a"
+    },
+    {
+      "start_time": 1694,
+      "end_time": 1694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even if you were a labor organizer, or politically committed to it, or...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "d262991a-37e0-446f-87e3-d4e315fc1368"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doesn't matter. Because a lot of… well, you see, a lot of… science fiction writers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "569b7163-eb22-47fa-9068-f0dfb840dcac"
+    },
+    {
+      "start_time": 1701,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was a friend of Judy Merril's, who moved to Toronto. She was an American science fiction writer who, um, went through the McCarthy era, and went to Canada because it was difficult...um, to be a politically interested person at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "85c24c97-1381-4ada-ba26-56b2a8ebb6ce"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a lot of them were writing that kind of, um, fiction, because they can work out their...um, social and political ideas, in it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "8613435a-9553-4559-b4c7-0ee675d97f42"
+    },
+    {
+      "start_time": 1731,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the utopia and the dystopia have always done..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "0e69ab7a-72fc-4869-bd46-a82665ac790e"
+    },
+    {
+      "start_time": 1735,
+      "end_time": 1735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Except that you give it a little… a slightly different twist. And you maybe set it in a hidden valley, or you set it on another planet, or you set it at the bottom of the sea, you know, somewhere else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "84197060-d867-4143-8463-228512347c11"
+    },
+    {
+      "start_time": 1749,
+      "end_time": 1749,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, which, the utopia also has done -- that's how Mr., Sir Thomas Morris started. You know, Utopia was on this island, which had never been discovered. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "5aba0149-ffcc-460e-9c59-bef8691772e0"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, um… Jonathan Swift, Gulliver's Travels, you know, you go on a voyage and you end up in these strange countries...which nobody knows about, where the people are only this big, or else they're giants, or they're flying around in flying machines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "0a6d4f1c-5634-4878-a91b-787cf2e18e75"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or they're talking horses… I mean, it's all part of that...wonder tale tradition which is very, very, very old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "d72cec05-5c00-4524-8c06-82e08b31e0be"
+    },
+    {
+      "start_time": 1782,
+      "end_time": 1782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did the idea of the Blind Assassin himself come from that uh, epigraph, that uh--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "26d68398-9e58-419c-85b6-6084c7ccb810"
+    },
+    {
+      "start_time": 1790,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it didn't come from the epigraph, but it's the dandy epigraph."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "1adf0225-95f3-4591-8d18-5c053ab85422"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a great admirer of Ryszard Kapuściński. I think -- oh he's a fascinating -- he's Polish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "34013b76-d7a4-497b-9078-5d812a4b557e"
+    },
+    {
+      "start_time": 1801,
+      "end_time": 1801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the two books I would recommend to you are The Emperor, which is the Uh, last days of Haile Selassie. And...Shah of Shahs, which is the last day of Shah of Iran."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "33182b06-f73f-4e4b-845a-2fd7856fd3ee"
+    },
+    {
+      "start_time": 1813,
+      "end_time": 1813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And… he's so interesting, and… The Emperor was actually one of the things that...helped topple the Iron Curtain...because...everybody in Poland knew it was really about the communist regime."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "94d74307-4633-4ae0-9b25-441fcad3365e"
+    },
+    {
+      "start_time": 1829,
+      "end_time": 1829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He used the old… the old, um… totalitarian… Um, he's the old writer in totalitarian society trick of disguising his commentary in the form of some other time and place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "886623dc-e70d-402c-9127-c3e80ad7fa17"
+    },
+    {
+      "start_time": 1848,
+      "end_time": 1848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was looking for something… I hate to bring up something you said before, but, ah! Here's, here's the… here's the quote [laughs]: \"Books don't save the world,\" was it…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "c03de63d-0091-4607-ae76-7d364b428260"
+    },
+    {
+      "start_time": 1854,
+      "end_time": 1854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, they don't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "090b7fd3-93e1-473a-96a2-51e0b7b0a02c"
+    },
+    {
+      "start_time": 1855,
+      "end_time": 1855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But here you're saying that this, in fact, toppled the regimenism, is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "83fadef3-da15-4912-a48f-a2f34c3dab02"
+    },
+    {
+      "start_time": 1860,
+      "end_time": 1860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did it save Poland? Is Poland now -- are, do we consider Poland now saved?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "ff20e942-078e-4429-8c0f-dacbdb2e83db"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, more saved than it was before. It's--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "01807943-ecea-4210-8caf-cb766b2675a9"
+    },
+    {
+      "start_time": 1868,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughs] There are differences of opinion about that. No, they don't save the world completely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "5f9b5c70-e5af-499e-9f72-323ced4194f0"
+    },
+    {
+      "start_time": 1873,
+      "end_time": 1873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They don't save the world but, but they can change things, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gussow"
+        }
+      ],
+      "uuid": "0b3fd5d4-6209-4a7a-96ff-621c63aab580"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, they can change things, yes. Salvation is a… is, um, absolute and total salvation is...projection into the... Well, it makes me very nervous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "d681eddf-c17b-4045-b93b-4a2918868c4d"
+    },
+    {
+      "start_time": 1890,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it implies that there is such a thing as an absolutist type of perfection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "84f522b4-1e77-4d3d-bfa0-5c5aabaaecb8"
+    },
+    {
+      "start_time": 1894,
+      "end_time": 1894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then we have to somehow dispose of everybody who doesn't fit that, so it makes me quite nervous. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "63fa5d98-7fea-400f-b0de-573e4656a583"
+    },
+    {
+      "start_time": 1909,
+      "end_time": 1909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, however, you can certainly, um, comment on the unfair state of things as they are, which was what Mr. Kapuściński was doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "b6887532-59af-4490-a3ce-adb6edb0d55c"
+    },
+    {
+      "start_time": 1912,
+      "end_time": 1912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can say the emperor has no clothes...which is what The Emperor is about. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Atwood"
+        }
+      ],
+      "uuid": "a2dde7ee-e392-450d-a6c3-43c8a001b406"
+    }
+  ],
   "event_id": "b4d88b5a-fbed-476e-91ef-2c9081669713",
   "set": "MA Real",
   "source_id": "511a801a-7548-4d42-b903-b89ff2f37db8"
