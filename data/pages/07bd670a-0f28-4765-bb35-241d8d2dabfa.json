@@ -64,7 +64,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In the lesson, we’re going to be listening to two clips: one where a member of the COFO is speaking to students about the charges they faced and the importance of voting before they begin asking them about their experiences (from :11-4:15), and the other where Beecher asks the students if they had recreational privileges while in jail and some of the conditions they faced (from 14:07-15:37)."
+          "text": "During this visit, we’re going to be listening to two clips: one where a member of the COFO is speaking to students about the charges they faced and the importance of voting before they begin asking them about their experiences (from :11-4:15), and the other where Beecher asks the students if they had recreational privileges while in jail and some of the conditions they faced (from 14:07-15:37)."
         }
       ]
     },
@@ -319,12 +319,18 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "37422336-a352-4611-abb2-710f6671e166",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "start": 11,
       "end": 255,
@@ -343,15 +349,20 @@
           "type": "list-item",
           "children": [
             {
-              "text": "What argument is the speaker making? What do you think?"
+              "text": "What argument is the speaker making to the students? Why?"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "text": "Why do you think the audio begins this way? Does it feel rehearsed?"
+              "text": "Why do you think the audio begins this way? Does it impact how you're understanding the overall exigence of the clip?"
             }
           ]
         }
@@ -368,17 +379,32 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Context: Beecher is asking the students about their recreational privileges in jail.",
+          "italic": true
+        }
+      ]
+    },
+    {
       "uuid": "37422336-a352-4611-abb2-710f6671e166",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "start": 847,
       "end": 937,
       "file": "e04f6637-3a39-438b-aa70-9143728f33a6",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -392,7 +418,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "What do you think of all the students' voices in the clips? "
+              "text": "What do you think of all the students' voices in the clips? Their testimony about their time in jail?"
             }
           ]
         },
@@ -400,15 +426,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "How are they describing their conditions in jail?"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Is this more or less rehearsed than the other clip?"
+              "text": "What emotions do you hear from the students they describe their time in jail?"
             }
           ]
         }
@@ -418,7 +436,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Overall: ",
+          "text": "Overall, consider: ",
           "textSize": "heading-two"
         }
       ]
@@ -427,7 +445,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What do you make of the first speaker compared to the others in clip two? How does this add to your understanding of the events described?"
+          "text": "What do you make of the first speaker compared to the others in clip two? How does this add to your understanding of the events described? "
         }
       ]
     },
@@ -453,7 +471,7 @@
   "created_by": "kywark",
   "title": "John Beecher, Criminal Syndicalism",
   "slug": "john-beecher-criminal-syndicalism",
-  "updated_at": "2026-01-13T22:58:35.873Z",
+  "updated_at": "2026-01-14T04:19:54.825Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
